@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch05_Calculator", "Ch05_Cal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch05_CalculatorUnitTests", "Ch05_CalculatorUnitTests\Ch05_CalculatorUnitTests.csproj", "{6FAA2DCB-60F5-4682-8251-6A09D4EAF243}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch05_Internationalization", "Ch05_Internationalization\Ch05_Internationalization.csproj", "{C2C0A6F9-563F-4E33-9D44-EAD0CC88F8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch05_AutomatingExcel", "Ch05_AutomatingExcel\Ch05_AutomatingExcel.csproj", "{F887F3CC-E4D4-46A9-92EC-00D4A2B634C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{6FAA2DCB-60F5-4682-8251-6A09D4EAF243}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FAA2DCB-60F5-4682-8251-6A09D4EAF243}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FAA2DCB-60F5-4682-8251-6A09D4EAF243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C0A6F9-563F-4E33-9D44-EAD0CC88F8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C0A6F9-563F-4E33-9D44-EAD0CC88F8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C0A6F9-563F-4E33-9D44-EAD0CC88F8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C0A6F9-563F-4E33-9D44-EAD0CC88F8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F887F3CC-E4D4-46A9-92EC-00D4A2B634C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F887F3CC-E4D4-46A9-92EC-00D4A2B634C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F887F3CC-E4D4-46A9-92EC-00D4A2B634C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F887F3CC-E4D4-46A9-92EC-00D4A2B634C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
